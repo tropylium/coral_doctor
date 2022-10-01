@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/coral_doctor/static/css/main.073c9b0a.css",
-    "main.js": "/coral_doctor/static/js/main.b887f380.js",
+    "main.js": "/coral_doctor/static/js/main.4654173d.js",
     "static/js/787.c11e37e7.chunk.js": "/coral_doctor/static/js/787.c11e37e7.chunk.js",
     "index.html": "/coral_doctor/index.html",
     "main.073c9b0a.css.map": "/coral_doctor/static/css/main.073c9b0a.css.map",
-    "main.b887f380.js.map": "/coral_doctor/static/js/main.b887f380.js.map",
+    "main.4654173d.js.map": "/coral_doctor/static/js/main.4654173d.js.map",
     "787.c11e37e7.chunk.js.map": "/coral_doctor/static/js/787.c11e37e7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.b887f380.js"
+    "static/js/main.4654173d.js"
   ]
 }
