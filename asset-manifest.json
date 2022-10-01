@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/coral_doctor/static/css/main.073c9b0a.css",
-    "main.js": "/coral_doctor/static/js/main.280eabc4.js",
+    "main.css": "/coral_doctor/static/css/main.ddad1b74.css",
+    "main.js": "/coral_doctor/static/js/main.fcad7331.js",
     "static/js/787.c11e37e7.chunk.js": "/coral_doctor/static/js/787.c11e37e7.chunk.js",
+    "static/media/logo.png": "/coral_doctor/static/media/logo.f120c9d1b2c42e0a27a5.png",
     "index.html": "/coral_doctor/index.html",
-    "main.073c9b0a.css.map": "/coral_doctor/static/css/main.073c9b0a.css.map",
-    "main.280eabc4.js.map": "/coral_doctor/static/js/main.280eabc4.js.map",
+    "main.ddad1b74.css.map": "/coral_doctor/static/css/main.ddad1b74.css.map",
+    "main.fcad7331.js.map": "/coral_doctor/static/js/main.fcad7331.js.map",
     "787.c11e37e7.chunk.js.map": "/coral_doctor/static/js/787.c11e37e7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.280eabc4.js"
+    "static/css/main.ddad1b74.css",
+    "static/js/main.fcad7331.js"
   ]
 }
