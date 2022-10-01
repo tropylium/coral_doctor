@@ -12,7 +12,7 @@ root.render(
   <React.StrictMode>
       <BrowserRouter>
           <Routes>
-              <Route path="/" element={<App />} />
+              <Route path="tropylium.github.io/coral_doctor/" element={<App />} />
           </Routes>
       </BrowserRouter>,
   </React.StrictMode>
