@@ -10,11 +10,7 @@ const root = ReactDOM.createRoot(
 );
 root.render(
   <React.StrictMode>
-      <BrowserRouter>
-          <Routes>
-              <Route path="tropylium.github.io/coral_doctor/" element={<App />} />
-          </Routes>
-      </BrowserRouter>,
+      <App />
   </React.StrictMode>
 );
 
