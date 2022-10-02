@@ -14,8 +14,8 @@ and assign it a score. This color data is extremely powerful in understanding th
 
 ![Color and Bleaching Percentage](bleach_pct_prediction/color_bleach_pct.png?raw=true "Title")
 
-The above figure displays the count of coral at various color scores with indication of bleaching level. After plotting this data, we employed Ordinal
-Probit Regression and Logistic Regression to predict coral bleaching levels with ~75% accuracy. 
+The above figure displays the count of coral at various color scores with indication of bleaching level. After plotting this data, we employed **Ordinal
+Probit Regression** and **Logistic Regression** to predict coral bleaching levels with **~75% accuracy**. 
 
 We had some issues implementing other classification algorithms,such as a Gradient-Boosted Tree. We might have been overfitting our data because of a 
 smaller dataset or because the dataset had a low amount of features. The dataset we used was limited, as the other larger data sets were private.
