@@ -2,9 +2,22 @@
 
 ![Color Doctor Logo](coral_doctor.png?raw=true "Title")
 
-Coral Doctor is an machine learning based technology that works to preserve and safeguard coral reefs for future generations. We are a social media platform, that brings together ocean enthusiasts, scientists, and government officials together to serve a common goal and save one of our environments most assets. Coral reefs contribute to over 8 trillion dollars of the worlds GDP annually, and coral doctor ensures we protect this resources over 200 million individuals depend on. Users log onto our platform and upload underwater coral photography to share with other enthusiasts, and our propriety software processes the image, and then our machine learning algorithms analyze the data, and determine if the coral is in a healthy or sick condition, and potential treatment or recovery options to government or institution bodies. Through leveraging diving enthusiasts crowdsourcing, and government and NGO environmental protection agencies, Coral Doctor will have an immense effect on ensuring we preserve the Ocean's greatest assets today, for the generations of tomorrow.
+Coral Doctor is an machine learning based technology that works to preserve and safeguard coral reefs for future generations. We are a hybrid research and  social media platform, that brings together ocean enthusiasts, scientists, and government officials together to serve a common goal and save one of our environments most assets. Coral reefs contribute to over 8 trillion dollars of the world's GDP annually, and Coral Doctor ensures we protect this resources over 200 million individuals depend on. Users log onto our platform and upload underwater coral photography to share with other enthusiasts, and our propriety software processes the image. Then, our machine learning algorithms analyze the data, and determine if the coral is in a healthy or sick condition. This can help identify potential treatment or recovery options to government or institution bodies. Through leveraging diving enthusiasts' crowdsourcing, government organizations, and NGO environmental protection agencies, Coral Doctor will have an immense effect on ensuring we preserve the oceans' greatest assets today, for the generations of tomorrow.
 
-**Website**: [Coral Doctor](https://tropylium.github.io/coral_doctor/)
+## [Coral Doctor Website](https://tropylium.github.io/coral_doctor/)
+
+![Color Doctor Website](coral_site.png?raw=true "Title")
+
+![Color Doctor Website 2](coral_site_2.png?raw=true "Title")
+
+Our website, [Coral Doctor](https://tropylium.github.io/coral_doctor/), allows users to analyze images for coral bleach percentage, which indicates a diseased coral.
+
+## Coral Doctor App
+
+![Color Doctor App](coral_doctor_app.png?raw=true "Title")
+
+Our app enables a community of divers and researchers to share their images and analyze coral images for signs of disease, so we may better protect the
+reefs of our oceans.
 
 ## Data Source
 
@@ -24,4 +37,4 @@ smaller dataset or because the dataset had a low amount of features. The dataset
 
 ## Contributors
 
-[Sreevatsa Nukala](https://github.com/Sreevatsa03), [Areeb Alam](https://github.com/qareeb19), [Aileen Liao](), [Alex Dang](https://github.com/tropylium)
+[Sreevatsa Nukala](https://github.com/Sreevatsa03), [Areeb Alam](https://github.com/qareeb19), [Aileen Liao](https://github.com/aileenliao03), [Alex Dang](https://github.com/tropylium)
