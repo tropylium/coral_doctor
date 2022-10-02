@@ -24,4 +24,4 @@ smaller dataset or because the dataset had a low amount of features. The dataset
 
 ## Contributors
 
-Sreevatsa Nukala, Areeb Alam, Aileen Liao, Alex Dang
+[Sreevatsa Nukala](https://github.com/Sreevatsa03), [Areeb Alam](https://github.com/qareeb19), [Aileen Liao](), [Alex Dang](https://github.com/tropylium)
