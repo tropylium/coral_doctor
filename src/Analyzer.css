@@ -1,0 +1,62 @@
+#analyzer {
+    background-color: var(--bg);
+}
+
+#analyzer button {
+    margin: 0;
+}
+
+#analyzer h3 {
+    font-size: 36px;
+}
+
+#analyzer .fullpagelook {
+    align-items: flex-start;
+    width: fit-content;
+}
+
+#analyzer_Ctr {
+    gap: 16px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+#analyzer_img {
+    width: 50vh;
+    height: 50vh;
+}
+
+#analyzerinfo {
+    gap: 16px;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: flex-start;
+    height: 100%;
+}
+
+.bad {
+    color: orangered;
+    font-size: 24px;
+}
+
+.info {
+    font-size: 24px;
+}
+
+#sampleImageCtr {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    grid-gap: 16px;
+}
+
+.sampleImage {
+    height: 10vh;
+    width: 10vh;
+}
+
+.sampleImage.selected {
+    outline: 4px solid var(--highlight);
+}

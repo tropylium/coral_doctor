@@ -1,0 +1,52 @@
+#home {
+    height: 100vh;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 18px;
+    overflow: scroll;
+}
+
+#home p {
+    margin: 0;
+}
+
+h1, h2, h3 {
+    margin: 0;
+}
+
+.spacer {
+    flex: 1;
+}
+
+#coralbg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    width: 100vw;
+    z-index: -1;
+}
+
+#maincontent {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    text-align: center;
+}
+
+#maincontent button {
+    padding: 16px 32px;
+    margin: 32px;
+    font-size: 24px;
+    background-color: var(--highlight);
+    transition: background-color 200ms;
+    border-radius: 10px;
+    font-weight: 600;
+}
+
+#maincontent button:hover {
+    background-color: var(--primary);
+}
