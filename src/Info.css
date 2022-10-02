@@ -1,3 +1,7 @@
 #info {
     width: 50vw;
 }
+
+#infoCtr {
+    background-color: var(--bg-trans);
+}
