@@ -33,7 +33,7 @@ The above figure displays the count of coral at various color scores with indica
 Probit Regression** and **Logistic Regression** to predict coral bleaching levels with **~75% accuracy**. 
 
 We had some issues implementing other classification algorithms,such as a Gradient-Boosted Tree. We might have been overfitting our data because of a 
-smaller dataset or because the dataset had a low amount of features. The dataset we used was limited, as the other larger data sets were private.
+smaller dataset or because the dataset had a low amount of features. The dataset we used was limited, as the other larger data sets were private. In the future, we would look into analyzing a much larger dataset with more features, so we can target a higher accuracy but avoid overfitting.
 
 ## Contributors
 
