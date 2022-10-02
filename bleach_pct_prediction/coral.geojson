@@ -1,0 +1,1612 @@
+{
+    "type": "FeatureCollection",
+    "totalFeatures": 3002,
+    "features": [
+        {
+            "type": "Feature",
+            "id": "hi_himb_all_coralcard.243",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -155.013803,
+                    19.737334
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "obs_id": 175,
+                "date": "2019/10/15 09:42",
+                "first_name": "Darrell",
+                "last_name": "Kuamo'o",
+                "region": "Hawaii",
+                "location": "Richardson Ocean Center",
+                "color": 4,
+                "shape": "mound",
+                "species": "Porites lobata",
+                "bleach_pct": null,
+                "depth_ft": 3,
+                "h2o_temp_f": null,
+                "comment": "EHAP transect line, coral #1",
+                "photo_url": null,
+                "submit_lat": 19.737334,
+                "submit_lon": -155.013803,
+                "size_bytes": null,
+                "md5": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hi_himb_all_coralcard.250",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -155.013803,
+                    19.737334
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "obs_id": 182,
+                "date": "2019/10/15 09:42",
+                "first_name": "Darrell",
+                "last_name": "Kuamo'o",
+                "region": "Hawaii",
+                "location": "Richardson Ocean Center",
+                "color": 4,
+                "shape": "mound",
+                "species": "Porites lobata",
+                "bleach_pct": null,
+                "depth_ft": 3,
+                "h2o_temp_f": null,
+                "comment": "EHAP transect line, coral #8",
+                "photo_url": null,
+                "submit_lat": 19.737334,
+                "submit_lon": -155.013803,
+                "size_bytes": null,
+                "md5": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hi_himb_all_coralcard.257",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -155.013812,
+                    19.737325
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "obs_id": 189,
+                "date": "2019/10/15 09:52",
+                "first_name": "Darrell",
+                "last_name": "Kuamo'o",
+                "region": "Hawaii",
+                "location": "Richardson Ocean Center",
+                "color": 22,
+                "shape": "branch",
+                "species": "Pocillopora meandrina",
+                "bleach_pct": null,
+                "depth_ft": 3,
+                "h2o_temp_f": null,
+                "comment": "EHAP transect line 4, coral #5",
+                "photo_url": null,
+                "submit_lat": 19.737325,
+                "submit_lon": -155.013812,
+                "size_bytes": null,
+                "md5": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hi_himb_all_coralcard.263",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.696189,
+                    21.27082
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "obs_id": 195,
+                "date": "2019/10/08 11:50",
+                "first_name": "Anke",
+                "last_name": "Roberts",
+                "region": "Oahu",
+                "location": "Hanauma Bay",
+                "color": 19,
+                "shape": "crust",
+                "species": null,
+                "bleach_pct": "0-10%",
+                "depth_ft": 5,
+                "h2o_temp_f": null,
+                "comment": null,
+                "photo_url": null,
+                "submit_lat": 21.27082,
+                "submit_lon": -157.696189,
+                "size_bytes": null,
+                "md5": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hi_himb_all_coralcard.270",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.696272,
+                    21.270843
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "obs_id": 202,
+                "date": "2019/10/08 11:50",
+                "first_name": "Anke",
+                "last_name": "Roberts",
+                "region": "Oahu",
+                "location": "Hanauma Bay",
+                "color": 7,
+                "shape": "crust",
+                "species": null,
+                "bleach_pct": "0-10%",
+                "depth_ft": 4,
+                "h2o_temp_f": null,
+                "comment": null,
+                "photo_url": null,
+                "submit_lat": 21.270843,
+                "submit_lon": -157.696272,
+                "size_bytes": null,
+                "md5": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hi_himb_all_coralcard.277",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.696133,
+                    21.271283
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "obs_id": 209,
+                "date": "2019/10/08 12:03",
+                "first_name": "Anke",
+                "last_name": "Roberts",
+                "region": "Oahu",
+                "location": "Hanauma Bay",
+                "color": 19,
+                "shape": "branch",
+                "species": null,
+                "bleach_pct": "0-10%",
+                "depth_ft": 4,
+                "h2o_temp_f": null,
+                "comment": null,
+                "photo_url": null,
+                "submit_lat": 21.271283,
+                "submit_lon": -157.696133,
+                "size_bytes": null,
+                "md5": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hi_himb_all_coralcard.59",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.86294,
+                    21.28842
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "obs_id": 4,
+                "date": "2019/07/21 10:56",
+                "first_name": "Kate",
+                "last_name": "Whittingham",
+                "region": "Oahu",
+                "location": "Horseshoe Reef",
+                "color": 22,
+                "shape": "mound",
+                "species": null,
+                "bleach_pct": "25-50%",
+                "depth_ft": 45,
+                "h2o_temp_f": 76,
+                "comment": null,
+                "photo_url": null,
+                "submit_lat": 21.28842,
+                "submit_lon": -157.86294,
+                "size_bytes": null,
+                "md5": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hi_himb_all_coralcard.61",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.86294,
+                    21.28842
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "obs_id": 6,
+                "date": "2019/07/21 10:56",
+                "first_name": "Kate",
+                "last_name": "Whittingham",
+                "region": "Oahu",
+                "location": "Horseshoe Reef",
+                "color": 15,
+                "shape": "mound",
+                "species": null,
+                "bleach_pct": "25-50%",
+                "depth_ft": 45,
+                "h2o_temp_f": 76,
+                "comment": null,
+                "photo_url": null,
+                "submit_lat": 21.28842,
+                "submit_lon": -157.86294,
+                "size_bytes": null,
+                "md5": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hi_himb_all_coralcard.63",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.86294,
+                    21.28842
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "obs_id": 8,
+                "date": "2019/07/21 10:56",
+                "first_name": "Kate",
+                "last_name": "Whittingham",
+                "region": "Oahu",
+                "location": "Horseshoe Reef",
+                "color": 32,
+                "shape": "branch",
+                "species": null,
+                "bleach_pct": "25-50%",
+                "depth_ft": 45,
+                "h2o_temp_f": 76,
+                "comment": null,
+                "photo_url": null,
+                "submit_lat": 21.28842,
+                "submit_lon": -157.86294,
+                "size_bytes": null,
+                "md5": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hi_himb_all_coralcard.65",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.86294,
+                    21.28842
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "obs_id": 10,
+                "date": "2019/07/21 10:56",
+                "first_name": "Kate",
+                "last_name": "Whittingham",
+                "region": "Oahu",
+                "location": "Horseshoe Reef",
+                "color": 21,
+                "shape": "branch",
+                "species": null,
+                "bleach_pct": "25-50%",
+                "depth_ft": 45,
+                "h2o_temp_f": 76,
+                "comment": null,
+                "photo_url": null,
+                "submit_lat": 21.28842,
+                "submit_lon": -157.86294,
+                "size_bytes": null,
+                "md5": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hi_himb_all_coralcard.67",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.86294,
+                    21.28842
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "obs_id": 12,
+                "date": "2019/07/21 10:56",
+                "first_name": "Kate",
+                "last_name": "Whittingham",
+                "region": "Oahu",
+                "location": "Horseshoe Reef",
+                "color": 30,
+                "shape": "branch",
+                "species": null,
+                "bleach_pct": "25-50%",
+                "depth_ft": 45,
+                "h2o_temp_f": 76,
+                "comment": null,
+                "photo_url": null,
+                "submit_lat": 21.28842,
+                "submit_lon": -157.86294,
+                "size_bytes": null,
+                "md5": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hi_himb_all_coralcard.69",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.86294,
+                    21.28842
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "obs_id": 14,
+                "date": "2019/07/21 10:56",
+                "first_name": "Kate",
+                "last_name": "Whittingham",
+                "region": "Oahu",
+                "location": "Horseshoe Reef",
+                "color": 22,
+                "shape": "plate",
+                "species": null,
+                "bleach_pct": "25-50%",
+                "depth_ft": 45,
+                "h2o_temp_f": 76,
+                "comment": null,
+                "photo_url": null,
+                "submit_lat": 21.28842,
+                "submit_lon": -157.86294,
+                "size_bytes": null,
+                "md5": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hi_himb_all_coralcard.71",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.86294,
+                    21.28842
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "obs_id": 16,
+                "date": "2019/07/21 10:56",
+                "first_name": "Kate",
+                "last_name": "Whittingham",
+                "region": "Oahu",
+                "location": "Horseshoe Reef",
+                "color": 19,
+                "shape": "crust",
+                "species": null,
+                "bleach_pct": "25-50%",
+                "depth_ft": 45,
+                "h2o_temp_f": 76,
+                "comment": null,
+                "photo_url": null,
+                "submit_lat": 21.28842,
+                "submit_lon": -157.86294,
+                "size_bytes": null,
+                "md5": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hi_himb_all_coralcard.73",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.86294,
+                    21.28842
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "obs_id": 18,
+                "date": "2019/07/21 10:56",
+                "first_name": "Kate",
+                "last_name": "Whittingham",
+                "region": "Oahu",
+                "location": "Horseshoe Reef",
+                "color": 20,
+                "shape": "mound",
+                "species": null,
+                "bleach_pct": "25-50%",
+                "depth_ft": 45,
+                "h2o_temp_f": 76,
+                "comment": null,
+                "photo_url": null,
+                "submit_lat": 21.28842,
+                "submit_lon": -157.86294,
+                "size_bytes": null,
+                "md5": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hi_himb_all_coralcard.77",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.86335,
+                    21.289667
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "obs_id": 22,
+                "date": "2019/07/23 08:52",
+                "first_name": "Sarah",
+                "last_name": "Severino",
+                "region": "Oahu",
+                "location": "Deep Kewalo Pipe",
+                "color": 30,
+                "shape": "mound",
+                "species": null,
+                "bleach_pct": "0-10%",
+                "depth_ft": 55,
+                "h2o_temp_f": null,
+                "comment": "PADI Women's Dive Day. Survey collection 1 of 6.",
+                "photo_url": null,
+                "submit_lat": 21.289667,
+                "submit_lon": -157.86335,
+                "size_bytes": null,
+                "md5": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hi_himb_all_coralcard.79",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.86335,
+                    21.289667
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "obs_id": 24,
+                "date": "2019/07/23 08:52",
+                "first_name": "Sarah",
+                "last_name": "Severino",
+                "region": "Oahu",
+                "location": "Deep Kewalo Pipe",
+                "color": 20,
+                "shape": "mound",
+                "species": null,
+                "bleach_pct": "0-10%",
+                "depth_ft": 55,
+                "h2o_temp_f": null,
+                "comment": "PADI Women's Dive Day. Survey collection 1 of 6.",
+                "photo_url": null,
+                "submit_lat": 21.289667,
+                "submit_lon": -157.86335,
+                "size_bytes": null,
+                "md5": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hi_himb_all_coralcard.81",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.86335,
+                    21.289667
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "obs_id": 26,
+                "date": "2019/07/23 08:52",
+                "first_name": "Sarah",
+                "last_name": "Severino",
+                "region": "Oahu",
+                "location": "Deep Kewalo Pipe",
+                "color": 29,
+                "shape": "branch",
+                "species": null,
+                "bleach_pct": "0-10%",
+                "depth_ft": 55,
+                "h2o_temp_f": null,
+                "comment": "PADI Women's Dive Day. Survey collection 1 of 6.",
+                "photo_url": null,
+                "submit_lat": 21.289667,
+                "submit_lon": -157.86335,
+                "size_bytes": null,
+                "md5": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hi_himb_all_coralcard.83",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.86335,
+                    21.289667
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "obs_id": 28,
+                "date": "2019/07/23 08:52",
+                "first_name": "Sarah",
+                "last_name": "Severino",
+                "region": "Oahu",
+                "location": "Deep Kewalo Pipe",
+                "color": 12,
+                "shape": "mound",
+                "species": null,
+                "bleach_pct": "0-10%",
+                "depth_ft": 55,
+                "h2o_temp_f": null,
+                "comment": "PADI Women's Dive Day. Survey collection 1 of 6.",
+                "photo_url": null,
+                "submit_lat": 21.289667,
+                "submit_lon": -157.86335,
+                "size_bytes": null,
+                "md5": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hi_himb_all_coralcard.85",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.86335,
+                    21.289667
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "obs_id": 30,
+                "date": "2019/07/23 08:52",
+                "first_name": "Sarah",
+                "last_name": "Severino",
+                "region": "Oahu",
+                "location": "Deep Kewalo Pipe",
+                "color": 12,
+                "shape": "crust",
+                "species": null,
+                "bleach_pct": "0-10%",
+                "depth_ft": 55,
+                "h2o_temp_f": null,
+                "comment": "PADI Women's Dive Day. Survey collection 1 of 6.",
+                "photo_url": null,
+                "submit_lat": 21.289667,
+                "submit_lon": -157.86335,
+                "size_bytes": null,
+                "md5": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hi_himb_all_coralcard.87",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.86335,
+                    21.289667
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "obs_id": 32,
+                "date": "2019/07/23 08:54",
+                "first_name": "Sarah",
+                "last_name": "Severino",
+                "region": "Oahu",
+                "location": "Deep Kewalo Pipe",
+                "color": 3,
+                "shape": "mound",
+                "species": null,
+                "bleach_pct": "0-10%",
+                "depth_ft": 55,
+                "h2o_temp_f": null,
+                "comment": "PADI Women's Dive Day. Survey collection 2 of 6.",
+                "photo_url": null,
+                "submit_lat": 21.289667,
+                "submit_lon": -157.86335,
+                "size_bytes": null,
+                "md5": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hi_himb_all_coralcard.89",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.86335,
+                    21.289667
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "obs_id": 34,
+                "date": "2019/07/23 08:54",
+                "first_name": "Sarah",
+                "last_name": "Severino",
+                "region": "Oahu",
+                "location": "Deep Kewalo Pipe",
+                "color": 32,
+                "shape": "mound",
+                "species": null,
+                "bleach_pct": "0-10%",
+                "depth_ft": 55,
+                "h2o_temp_f": null,
+                "comment": "PADI Women's Dive Day. Survey collection 2 of 6.",
+                "photo_url": null,
+                "submit_lat": 21.289667,
+                "submit_lon": -157.86335,
+                "size_bytes": null,
+                "md5": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hi_himb_all_coralcard.91",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.86335,
+                    21.289667
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "obs_id": 36,
+                "date": "2019/07/23 08:54",
+                "first_name": "Sarah",
+                "last_name": "Severino",
+                "region": "Oahu",
+                "location": "Deep Kewalo Pipe",
+                "color": 30,
+                "shape": "branch",
+                "species": null,
+                "bleach_pct": "0-10%",
+                "depth_ft": 55,
+                "h2o_temp_f": null,
+                "comment": "PADI Women's Dive Day. Survey collection 2 of 6.",
+                "photo_url": null,
+                "submit_lat": 21.289667,
+                "submit_lon": -157.86335,
+                "size_bytes": null,
+                "md5": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hi_himb_all_coralcard.93",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.86335,
+                    21.289667
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "obs_id": 38,
+                "date": "2019/07/23 08:54",
+                "first_name": "Sarah",
+                "last_name": "Severino",
+                "region": "Oahu",
+                "location": "Deep Kewalo Pipe",
+                "color": 0,
+                "shape": "crust",
+                "species": null,
+                "bleach_pct": "0-10%",
+                "depth_ft": 55,
+                "h2o_temp_f": null,
+                "comment": "PADI Women's Dive Day. Survey collection 2 of 6.",
+                "photo_url": null,
+                "submit_lat": 21.289667,
+                "submit_lon": -157.86335,
+                "size_bytes": null,
+                "md5": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hi_himb_all_coralcard.95",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.86335,
+                    21.289667
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "obs_id": 40,
+                "date": "2019/07/23 08:54",
+                "first_name": "Sarah",
+                "last_name": "Severino",
+                "region": "Oahu",
+                "location": "Deep Kewalo Pipe",
+                "color": 12,
+                "shape": "crust",
+                "species": null,
+                "bleach_pct": "0-10%",
+                "depth_ft": 55,
+                "h2o_temp_f": null,
+                "comment": "PADI Women's Dive Day. Survey collection 2 of 6.",
+                "photo_url": null,
+                "submit_lat": 21.289667,
+                "submit_lon": -157.86335,
+                "size_bytes": null,
+                "md5": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hi_himb_all_coralcard.97",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.86335,
+                    21.289667
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "obs_id": 42,
+                "date": "2019/07/23 08:54",
+                "first_name": "Sarah",
+                "last_name": "Severino",
+                "region": "Oahu",
+                "location": "Deep Kewalo Pipe",
+                "color": 28,
+                "shape": "branch",
+                "species": null,
+                "bleach_pct": "0-10%",
+                "depth_ft": 55,
+                "h2o_temp_f": null,
+                "comment": "PADI Women's Dive Day. Survey collection 2 of 6.",
+                "photo_url": null,
+                "submit_lat": 21.289667,
+                "submit_lon": -157.86335,
+                "size_bytes": null,
+                "md5": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hi_himb_all_coralcard.99",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.86335,
+                    21.289667
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "obs_id": 44,
+                "date": "2019/07/23 08:54",
+                "first_name": "Sarah",
+                "last_name": "Severino",
+                "region": "Oahu",
+                "location": "Deep Kewalo Pipe",
+                "color": 15,
+                "shape": "branch",
+                "species": null,
+                "bleach_pct": "0-10%",
+                "depth_ft": 55,
+                "h2o_temp_f": null,
+                "comment": "PADI Women's Dive Day. Survey collection 2 of 6.",
+                "photo_url": null,
+                "submit_lat": 21.289667,
+                "submit_lon": -157.86335,
+                "size_bytes": null,
+                "md5": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hi_himb_all_coralcard.101",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.86335,
+                    21.289667
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "obs_id": 46,
+                "date": "2019/07/23 08:57",
+                "first_name": "Sarah",
+                "last_name": "Severino",
+                "region": "Oahu",
+                "location": "Deep Kewalo Pipe",
+                "color": 28,
+                "shape": "mound",
+                "species": null,
+                "bleach_pct": "0-10%",
+                "depth_ft": 55,
+                "h2o_temp_f": null,
+                "comment": "PADI Women's Dive Day. Survey collection 3 of 6.",
+                "photo_url": null,
+                "submit_lat": 21.289667,
+                "submit_lon": -157.86335,
+                "size_bytes": null,
+                "md5": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hi_himb_all_coralcard.103",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.86335,
+                    21.289667
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "obs_id": 48,
+                "date": "2019/07/23 08:57",
+                "first_name": "Sarah",
+                "last_name": "Severino",
+                "region": "Oahu",
+                "location": "Deep Kewalo Pipe",
+                "color": 26,
+                "shape": "branch",
+                "species": null,
+                "bleach_pct": "0-10%",
+                "depth_ft": 55,
+                "h2o_temp_f": null,
+                "comment": "PADI Women's Dive Day. Survey collection 3 of 6.",
+                "photo_url": null,
+                "submit_lat": 21.289667,
+                "submit_lon": -157.86335,
+                "size_bytes": null,
+                "md5": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hi_himb_all_coralcard.105",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.86335,
+                    21.289667
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "obs_id": 50,
+                "date": "2019/07/23 08:57",
+                "first_name": "Sarah",
+                "last_name": "Severino",
+                "region": "Oahu",
+                "location": "Deep Kewalo Pipe",
+                "color": 30,
+                "shape": "mound",
+                "species": null,
+                "bleach_pct": "0-10%",
+                "depth_ft": 55,
+                "h2o_temp_f": null,
+                "comment": "PADI Women's Dive Day. Survey collection 3 of 6.",
+                "photo_url": null,
+                "submit_lat": 21.289667,
+                "submit_lon": -157.86335,
+                "size_bytes": null,
+                "md5": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hi_himb_all_coralcard.107",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.86335,
+                    21.289667
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "obs_id": 52,
+                "date": "2019/07/23 08:57",
+                "first_name": "Sarah",
+                "last_name": "Severino",
+                "region": "Oahu",
+                "location": "Deep Kewalo Pipe",
+                "color": 16,
+                "shape": "mound",
+                "species": null,
+                "bleach_pct": "0-10%",
+                "depth_ft": 55,
+                "h2o_temp_f": null,
+                "comment": "PADI Women's Dive Day. Survey collection 3 of 6.",
+                "photo_url": null,
+                "submit_lat": 21.289667,
+                "submit_lon": -157.86335,
+                "size_bytes": null,
+                "md5": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hi_himb_all_coralcard.109",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.86335,
+                    21.289667
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "obs_id": 54,
+                "date": "2019/07/23 09:10",
+                "first_name": "Sarah",
+                "last_name": "Severino",
+                "region": "Oahu",
+                "location": "Deep Kewalo Pipe",
+                "color": 20,
+                "shape": "mound",
+                "species": null,
+                "bleach_pct": "0-10%",
+                "depth_ft": 55,
+                "h2o_temp_f": null,
+                "comment": "PADI Women's Dive Day. Survey collection 4 of 6. Dive survey without dive light. Haphazard survey: corals surveyed in no particular order.",
+                "photo_url": null,
+                "submit_lat": 21.289667,
+                "submit_lon": -157.86335,
+                "size_bytes": null,
+                "md5": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hi_himb_all_coralcard.111",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.86335,
+                    21.289667
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "obs_id": 56,
+                "date": "2019/07/23 09:10",
+                "first_name": "Sarah",
+                "last_name": "Severino",
+                "region": "Oahu",
+                "location": "Deep Kewalo Pipe",
+                "color": 15,
+                "shape": "branch",
+                "species": null,
+                "bleach_pct": "0-10%",
+                "depth_ft": 55,
+                "h2o_temp_f": null,
+                "comment": "PADI Women's Dive Day. Survey collection 4 of 6. Dive survey without dive light. Haphazard survey: corals surveyed in no particular order.",
+                "photo_url": null,
+                "submit_lat": 21.289667,
+                "submit_lon": -157.86335,
+                "size_bytes": null,
+                "md5": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hi_himb_all_coralcard.113",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.86335,
+                    21.289667
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "obs_id": 58,
+                "date": "2019/07/23 09:10",
+                "first_name": "Sarah",
+                "last_name": "Severino",
+                "region": "Oahu",
+                "location": "Deep Kewalo Pipe",
+                "color": 11,
+                "shape": "mound",
+                "species": null,
+                "bleach_pct": "0-10%",
+                "depth_ft": 55,
+                "h2o_temp_f": null,
+                "comment": "PADI Women's Dive Day. Survey collection 4 of 6. Dive survey without dive light. Haphazard survey: corals surveyed in no particular order.",
+                "photo_url": null,
+                "submit_lat": 21.289667,
+                "submit_lon": -157.86335,
+                "size_bytes": null,
+                "md5": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hi_himb_all_coralcard.284",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.696133,
+                    21.271283
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "obs_id": 216,
+                "date": "2019/10/08 12:03",
+                "first_name": "Anke",
+                "last_name": "Roberts",
+                "region": "Oahu",
+                "location": "Hanauma Bay",
+                "color": 16,
+                "shape": "branch",
+                "species": null,
+                "bleach_pct": "0-10%",
+                "depth_ft": 4,
+                "h2o_temp_f": null,
+                "comment": null,
+                "photo_url": null,
+                "submit_lat": 21.271283,
+                "submit_lon": -157.696133,
+                "size_bytes": null,
+                "md5": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hi_himb_all_coralcard.291",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.694577,
+                    21.272533
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "obs_id": 223,
+                "date": "2019/10/08 09:00",
+                "first_name": "Anke",
+                "last_name": "Roberts",
+                "region": "Oahu",
+                "location": "Hanauma Bay",
+                "color": 21,
+                "shape": "mound",
+                "species": null,
+                "bleach_pct": "0-10%",
+                "depth_ft": 4,
+                "h2o_temp_f": null,
+                "comment": null,
+                "photo_url": null,
+                "submit_lat": 21.272533,
+                "submit_lon": -157.694577,
+                "size_bytes": null,
+                "md5": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hi_himb_all_coralcard.298",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.694577,
+                    21.272533
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "obs_id": 230,
+                "date": "2019/10/08 09:00",
+                "first_name": "Anke",
+                "last_name": "Roberts",
+                "region": "Oahu",
+                "location": "Hanauma Bay",
+                "color": 17,
+                "shape": "branch",
+                "species": null,
+                "bleach_pct": "0-10%",
+                "depth_ft": 4,
+                "h2o_temp_f": null,
+                "comment": null,
+                "photo_url": null,
+                "submit_lat": 21.272533,
+                "submit_lon": -157.694577,
+                "size_bytes": null,
+                "md5": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hi_himb_all_coralcard.305",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.695746,
+                    21.271833
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "obs_id": 237,
+                "date": "2019/10/08 09:34",
+                "first_name": "Anke",
+                "last_name": "Roberts",
+                "region": "Oahu",
+                "location": "Hanauma Bay",
+                "color": 21,
+                "shape": "branch",
+                "species": null,
+                "bleach_pct": "0-10%",
+                "depth_ft": 4,
+                "h2o_temp_f": null,
+                "comment": null,
+                "photo_url": null,
+                "submit_lat": 21.271833,
+                "submit_lon": -157.695746,
+                "size_bytes": null,
+                "md5": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hi_himb_all_coralcard.312",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.69668,
+                    21.269257
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "obs_id": 244,
+                "date": "2019/10/08 10:46",
+                "first_name": "Anke",
+                "last_name": "Roberts",
+                "region": "Oahu",
+                "location": "Hanauma Bay",
+                "color": 4,
+                "shape": "mound",
+                "species": null,
+                "bleach_pct": "0-10%",
+                "depth_ft": 4,
+                "h2o_temp_f": null,
+                "comment": null,
+                "photo_url": null,
+                "submit_lat": 21.269257,
+                "submit_lon": -157.69668,
+                "size_bytes": null,
+                "md5": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hi_himb_all_coralcard.519",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -156.737245,
+                    21.114276
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "obs_id": 451,
+                "date": "2019/11/17 11:58",
+                "first_name": null,
+                "last_name": null,
+                "region": "Molokai",
+                "location": null,
+                "color": 20,
+                "shape": "crust",
+                "species": null,
+                "bleach_pct": null,
+                "depth_ft": null,
+                "h2o_temp_f": null,
+                "comment": null,
+                "photo_url": null,
+                "submit_lat": 21.114276,
+                "submit_lon": -156.737245,
+                "size_bytes": null,
+                "md5": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hi_himb_all_coralcard.244",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -155.013803,
+                    19.737334
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "obs_id": 176,
+                "date": "2019/10/15 09:42",
+                "first_name": "Darrell",
+                "last_name": "Kuamo'o",
+                "region": "Hawaii",
+                "location": "Richardson Ocean Center",
+                "color": 22,
+                "shape": "branch",
+                "species": "Pocillopora meandrina",
+                "bleach_pct": null,
+                "depth_ft": 3,
+                "h2o_temp_f": null,
+                "comment": "EHAP transect line, coral #2",
+                "photo_url": null,
+                "submit_lat": 19.737334,
+                "submit_lon": -155.013803,
+                "size_bytes": null,
+                "md5": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hi_himb_all_coralcard.251",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -155.013803,
+                    19.737334
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "obs_id": 183,
+                "date": "2019/10/15 09:42",
+                "first_name": "Darrell",
+                "last_name": "Kuamo'o",
+                "region": "Hawaii",
+                "location": "Richardson Ocean Center",
+                "color": 22,
+                "shape": "branch",
+                "species": "Pocillopora meandrina",
+                "bleach_pct": null,
+                "depth_ft": 3,
+                "h2o_temp_f": null,
+                "comment": "EHAP transect line, coral #9",
+                "photo_url": null,
+                "submit_lat": 19.737334,
+                "submit_lon": -155.013803,
+                "size_bytes": null,
+                "md5": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hi_himb_all_coralcard.258",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -155.013812,
+                    19.737325
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "obs_id": 190,
+                "date": "2019/10/15 09:52",
+                "first_name": "Darrell",
+                "last_name": "Kuamo'o",
+                "region": "Hawaii",
+                "location": "Richardson Ocean Center",
+                "color": 11,
+                "shape": "mound",
+                "species": "Porites lobata",
+                "bleach_pct": null,
+                "depth_ft": 3,
+                "h2o_temp_f": null,
+                "comment": "EHAP transect line 4, coral #6",
+                "photo_url": null,
+                "submit_lat": 19.737325,
+                "submit_lon": -155.013812,
+                "size_bytes": null,
+                "md5": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hi_himb_all_coralcard.264",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.696189,
+                    21.27082
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "obs_id": 196,
+                "date": "2019/10/08 11:50",
+                "first_name": "Anke",
+                "last_name": "Roberts",
+                "region": "Oahu",
+                "location": "Hanauma Bay",
+                "color": 19,
+                "shape": "crust",
+                "species": null,
+                "bleach_pct": "0-10%",
+                "depth_ft": 5,
+                "h2o_temp_f": null,
+                "comment": null,
+                "photo_url": null,
+                "submit_lat": 21.27082,
+                "submit_lon": -157.696189,
+                "size_bytes": null,
+                "md5": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hi_himb_all_coralcard.271",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.696272,
+                    21.270843
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "obs_id": 203,
+                "date": "2019/10/08 11:50",
+                "first_name": "Anke",
+                "last_name": "Roberts",
+                "region": "Oahu",
+                "location": "Hanauma Bay",
+                "color": 7,
+                "shape": "crust",
+                "species": null,
+                "bleach_pct": "0-10%",
+                "depth_ft": 4,
+                "h2o_temp_f": null,
+                "comment": null,
+                "photo_url": null,
+                "submit_lat": 21.270843,
+                "submit_lon": -157.696272,
+                "size_bytes": null,
+                "md5": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hi_himb_all_coralcard.278",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.696133,
+                    21.271283
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "obs_id": 210,
+                "date": "2019/10/08 12:03",
+                "first_name": "Anke",
+                "last_name": "Roberts",
+                "region": "Oahu",
+                "location": "Hanauma Bay",
+                "color": 8,
+                "shape": "crust",
+                "species": null,
+                "bleach_pct": "0-10%",
+                "depth_ft": 4,
+                "h2o_temp_f": null,
+                "comment": null,
+                "photo_url": null,
+                "submit_lat": 21.271283,
+                "submit_lon": -157.696133,
+                "size_bytes": null,
+                "md5": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hi_himb_all_coralcard.285",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.696133,
+                    21.271283
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "obs_id": 217,
+                "date": "2019/10/08 12:03",
+                "first_name": "Anke",
+                "last_name": "Roberts",
+                "region": "Oahu",
+                "location": "Hanauma Bay",
+                "color": 16,
+                "shape": "branch",
+                "species": null,
+                "bleach_pct": "0-10%",
+                "depth_ft": 4,
+                "h2o_temp_f": null,
+                "comment": null,
+                "photo_url": null,
+                "submit_lat": 21.271283,
+                "submit_lon": -157.696133,
+                "size_bytes": null,
+                "md5": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hi_himb_all_coralcard.58",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.86294,
+                    21.28842
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "obs_id": 3,
+                "date": "2019/07/21 10:56",
+                "first_name": "Kate",
+                "last_name": "Whittingham",
+                "region": "Oahu",
+                "location": "Horseshoe Reef",
+                "color": 16,
+                "shape": "mound",
+                "species": null,
+                "bleach_pct": "25-50%",
+                "depth_ft": 45,
+                "h2o_temp_f": 76,
+                "comment": null,
+                "photo_url": null,
+                "submit_lat": 21.28842,
+                "submit_lon": -157.86294,
+                "size_bytes": null,
+                "md5": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hi_himb_all_coralcard.60",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.86294,
+                    21.28842
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "obs_id": 5,
+                "date": "2019/07/21 10:56",
+                "first_name": "Kate",
+                "last_name": "Whittingham",
+                "region": "Oahu",
+                "location": "Horseshoe Reef",
+                "color": 23,
+                "shape": "mound",
+                "species": null,
+                "bleach_pct": "25-50%",
+                "depth_ft": 45,
+                "h2o_temp_f": 76,
+                "comment": null,
+                "photo_url": null,
+                "submit_lat": 21.28842,
+                "submit_lon": -157.86294,
+                "size_bytes": null,
+                "md5": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hi_himb_all_coralcard.62",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.86294,
+                    21.28842
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "obs_id": 7,
+                "date": "2019/07/21 10:56",
+                "first_name": "Kate",
+                "last_name": "Whittingham",
+                "region": "Oahu",
+                "location": "Horseshoe Reef",
+                "color": 11,
+                "shape": "mound",
+                "species": null,
+                "bleach_pct": "25-50%",
+                "depth_ft": 45,
+                "h2o_temp_f": 76,
+                "comment": null,
+                "photo_url": null,
+                "submit_lat": 21.28842,
+                "submit_lon": -157.86294,
+                "size_bytes": null,
+                "md5": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "hi_himb_all_coralcard.64",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.86294,
+                    21.28842
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "obs_id": 9,
+                "date": "2019/07/21 10:56",
+                "first_name": "Kate",
+                "last_name": "Whittingham",
+                "region": "Oahu",
+                "location": "Horseshoe Reef",
+                "color": 20,
+                "shape": "branch",
+                "species": null,
+                "bleach_pct": "25-50%",
+                "depth_ft": 45,
+                "h2o_temp_f": 76,
+                "comment": null,
+                "photo_url": null,
+                "submit_lat": 21.28842,
+                "submit_lon": -157.86294,
+                "size_bytes": null,
+                "md5": null
+            }
+        }
+    ],
+    "crs": {
+        "type": "EPSG",
+        "properties": {
+            "code": "4326"
+        }
+    }
+}
