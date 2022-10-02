@@ -3,3 +3,7 @@
     flex-direction: row;
     gap: 10vw;
 }
+
+#contactCtr {
+    background-color: var(--bg-trans);
+}

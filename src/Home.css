@@ -18,7 +18,7 @@ h1, h2, h3 {
     flex: 1;
 }
 
-#coralbg {
+.coralbg {
     position: absolute;
     top: 0;
     left: 0;

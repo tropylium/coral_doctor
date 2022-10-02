@@ -27,7 +27,7 @@ button {
 }
 
 .fullpagelook {
-  height: calc(100vh - 112px);
+  height: calc(100vh - 80px);
   width: 100%;
   display: flex;
   flex-direction: column;

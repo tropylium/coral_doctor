@@ -6,12 +6,20 @@ import NavBar from "./NavBar";
 
 function Home() {
     const scroll_div = useRef<HTMLDivElement>(null);
+    const bg_img = useRef<HTMLImageElement>(null);
     return (
-      <div id="home" ref={scroll_div}>
+      <div id="home" ref={scroll_div} onScroll={event => {
+          if (bg_img.current !== null && scroll_div.current !== null) {
+              const img = bg_img.current;
+              const scroll = scroll_div.current;
+              // img.offsetHeight = scroll.scrollTop/3
+              img.style.top = `${scroll.scrollTop / 3}px`;
+          }
+      }}>
           <NavBar/>
           <div id={"maincontent"}>
-              <img
-                   id="coralbg" src={coral} alt={'a picture of some coral'}/>
+              <img ref={bg_img}
+                   className="coralbg" src={coral} alt={'a picture of some coral'}/>
               <div className="fullpage">
                   <div className="fullpagelook">
                       <h2>

@@ -10,6 +10,7 @@ type CreditProps = {
 function Credit(props: CreditProps) {
     return (
         <div className="creditCtr">
+
             {
                 props.children
             }
