@@ -1,18 +1,29 @@
 {
   "files": {
-    "main.css": "/coral_doctor/static/css/main.4d62d105.css",
-    "main.js": "/coral_doctor/static/js/main.384bb304.js",
+    "main.css": "/coral_doctor/static/css/main.e13f33bf.css",
+    "main.js": "/coral_doctor/static/js/main.598e2940.js",
     "static/js/787.c11e37e7.chunk.js": "/coral_doctor/static/js/787.c11e37e7.chunk.js",
     "static/media/coral2.png": "/coral_doctor/static/media/coral2.a3184fade317bb361161.png",
-    "static/media/bleached_coral.jpeg": "/coral_doctor/static/media/bleached_coral.7d22330ea0d7cd32b607.jpeg",
+    "static/media/areeb.png": "/coral_doctor/static/media/areeb.ca98d1d5793faf1ecbab.png",
+    "static/media/bleached6.jpeg": "/coral_doctor/static/media/bleached6.9f46239f686d1f877af2.jpeg",
+    "static/media/bleached7.jpeg": "/coral_doctor/static/media/bleached7.c9c30cc3383869108cc9.jpeg",
+    "static/media/alex.png": "/coral_doctor/static/media/alex.f6721db88357891e44a0.png",
+    "static/media/bleached4.jpeg": "/coral_doctor/static/media/bleached4.4694a0cca7a14ef873c7.jpeg",
+    "static/media/bleached5.jpeg": "/coral_doctor/static/media/bleached5.545d375e06b090c68a50.jpeg",
+    "static/media/bleached1.jpeg": "/coral_doctor/static/media/bleached1.7d22330ea0d7cd32b607.jpeg",
+    "static/media/bleached2.jpeg": "/coral_doctor/static/media/bleached2.e773cca53a2d7d42137a.jpeg",
+    "static/media/sree.jpeg": "/coral_doctor/static/media/sree.5c34235c098243553814.jpeg",
+    "static/media/aileen.jpeg": "/coral_doctor/static/media/aileen.9534c6252674f099a6cb.jpeg",
     "static/media/logo.png": "/coral_doctor/static/media/logo.f120c9d1b2c42e0a27a5.png",
+    "static/media/bleached3.jpeg": "/coral_doctor/static/media/bleached3.0c35c2342216cd1f0817.jpeg",
+    "static/media/bleached8.jpeg": "/coral_doctor/static/media/bleached8.f6fc3d55e3d35421a127.jpeg",
     "index.html": "/coral_doctor/index.html",
-    "main.4d62d105.css.map": "/coral_doctor/static/css/main.4d62d105.css.map",
-    "main.384bb304.js.map": "/coral_doctor/static/js/main.384bb304.js.map",
+    "main.e13f33bf.css.map": "/coral_doctor/static/css/main.e13f33bf.css.map",
+    "main.598e2940.js.map": "/coral_doctor/static/js/main.598e2940.js.map",
     "787.c11e37e7.chunk.js.map": "/coral_doctor/static/js/787.c11e37e7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4d62d105.css",
-    "static/js/main.384bb304.js"
+    "static/css/main.e13f33bf.css",
+    "static/js/main.598e2940.js"
   ]
 }
